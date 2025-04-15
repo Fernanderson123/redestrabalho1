@@ -25,12 +25,12 @@ A rede é composta por:
 
 ### Endereçamento dos Hosts:
 
-| Dispositivo     | IP              |
-|-----------------|-----------------|
-| PC Luffy        | 192.168.1.10    |
-| Laptop Nami     | 192.168.1.11    |
-| PC Sanji        | 192.168.1.12    |
-| PC Zoro         | 192.168.1.13    |
+| Dispositivo     | IP              | NOME DNS             |
+|-----------------|-----------------|----------------------|
+| PC Luffy        | 192.168.1.10    | host.luffy.br        |
+| Laptop Nami     | 192.168.1.11    | host.nami.se         |
+| PC Sanji        | 192.168.1.12    | host.sanji.fr        |
+| PC Zoro         | 192.168.1.13    | host.zoro.jp         |
 
 ## 🌐 Servidor Web (PAYSANDU)
 
